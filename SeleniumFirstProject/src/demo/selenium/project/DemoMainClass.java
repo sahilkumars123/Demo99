@@ -9,6 +9,7 @@ public class DemoMainClass {
 		wc.getTitle();
 		wc.navigateCommands();
 		wc.closeBrowser();
+		System.out.println("Hello");
 
 	}
 
